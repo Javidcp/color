@@ -8,9 +8,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist",
-    "homepage": "https://javidcp.github.io/color/"
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://javidcp.github.io/color/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "react": "^19.0.0",
